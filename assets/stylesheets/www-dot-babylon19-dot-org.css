@@ -71,6 +71,7 @@ html.pg-home { background-color: #340853; }
     }
     .pg-home .maps-map {
         position: relative; left: 0; top: 33.333%;
+	width: 33.333%;
 //        border: 1px solid red !important;
     }
 /*** END PAGES ***/
