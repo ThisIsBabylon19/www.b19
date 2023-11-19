@@ -133,8 +133,9 @@ html {
         height: 10%;
     }
 
-    .pg-home .crowd {
-    }
+    .pg-home main:nth-child(2) { display: flex; }
+    .pg-home main:nth-child(2) { align-items: flex-end; }
+    .pg-home .crowd,
     .pg-home .crowd-canvas {
         width: 100%; height: 100%;
     }
