@@ -1,0 +1,14 @@
+collections:
+  hashtags:
+    output: true
+    permalink: /:path/
+  pages:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "hashtags"
+    values:
+      layout: "hashtags"
