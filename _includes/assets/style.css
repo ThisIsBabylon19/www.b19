@@ -57,9 +57,9 @@ html {
     background-attachment: fixed;
 }
 
-.pg-home .maps-map:nth-child(3) { background-image: url("../../assets/images/map_usa.png"); }
-.pg-home .maps-map:nth-child(2) { background-image: url("../../assets/images/map_india.png"); }
-.pg-home .maps-map:nth-child(1) { background-image: url("../../assets/images/map_south-africa.png"); }
+.pg-home .maps-map:nth-child(3) { background-image: url("../../assets/images/map_south-africa.png"); }
+.pg-home .maps-map:nth-child(2) { background-image: url("../../assets/images/map_usa.png"); }
+.pg-home .maps-map:nth-child(1) { background-image: url("../../assets/images/map_india.png"); }
 .pg-home .maps-map:nth-child(1) { background-position: top right; }
 .pg-home .maps-map:nth-child(2) { background-position: top center; }
 .pg-home .maps-map:nth-child(3) { background-position: top left; }
