@@ -121,6 +121,7 @@ html {
 		position: relative; top: -9em;
 	}
 
+	.pg-home .header-link { margin: .5em 0; }
     .pg-home .header-logo { width: 75%; max-width: 45em; }
 
     .pg-home .maps {
