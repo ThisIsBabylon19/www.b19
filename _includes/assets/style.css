@@ -126,6 +126,7 @@ html {
 
     .pg-home .maps {
 		width: 33.333%; height: 10%;
+		margin: 1em 0;
     }
 
     .pg-home main:nth-child(2) { display: flex; }
