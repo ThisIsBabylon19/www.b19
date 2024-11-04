@@ -124,9 +124,16 @@ html {
 	.pg-home .header-link { margin: .5em 0; }
     .pg-home .header-logo { width: 75%; max-width: 45em; }
 
-    .pg-home .maps {
-		width: 33.333%; height: 10%;
+	.pg-home .maps {
+		height: 10%;
+		
+		border: 1px solid purple;
+	}
+    .pg-home .maps-map {
+		width: 33.333%; height: 100%;
 		margin: 1em 0;
+		
+		border: 1px solid purple;
     }
 
     .pg-home main:nth-child(2) { display: flex; }
